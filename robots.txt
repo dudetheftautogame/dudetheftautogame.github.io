@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://dudetheftautogame.github.io/sitemap.xml
